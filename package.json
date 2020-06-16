@@ -1,0 +1,16 @@
+{
+  "name": "lab_39",
+  "version": "1.0.0",
+  "description": "updated website",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ciaran McCullough",
+  "license": "ISC",
+  "dependencies": {
+    "cookies-eu-banner": "^2.0.1"
+  },
+  "devDependencies": {
+  }
+}
