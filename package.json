@@ -2,15 +2,31 @@
   "name": "lab_39",
   "version": "1.0.0",
   "description": "updated website",
-  "main": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
   },
   "author": "Ciaran McCullough",
   "license": "ISC",
   "dependencies": {
+    "@glidejs/glide": "^3.4.1",
     "cookies-eu-banner": "^2.0.1"
   },
   "devDependencies": {
-  }
+    "parcel-bundler": "^1.12.4"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciaranmccullough/lab_39.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ciaranmccullough/lab_39/issues"
+  },
+  "homepage": "https://github.com/ciaranmccullough/lab_39#readme"
 }
