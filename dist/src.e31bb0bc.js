@@ -3817,7 +3817,7 @@ new _glide.default('.glide', {
   }
 }).mount();
 new _cookiesEuBanner.default(function () {});
-},{"@glidejs/glide":"../node_modules/@glidejs/glide/dist/glide.esm.js","../node_modules/cookies-eu-banner/dist/cookies-eu-banner":"../node_modules/cookies-eu-banner/dist/cookies-eu-banner.js"}],"../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"@glidejs/glide":"../node_modules/@glidejs/glide/dist/glide.esm.js","../node_modules/cookies-eu-banner/dist/cookies-eu-banner":"../node_modules/cookies-eu-banner/dist/cookies-eu-banner.js"}],"../../../../../usr/local/lib/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -3845,7 +3845,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "62454" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "50935" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
@@ -4021,5 +4021,5 @@ function hmrAcceptRun(bundle, id) {
     return true;
   }
 }
-},{}]},{},["../node_modules/parcel-bundler/src/builtins/hmr-runtime.js","index.js"], null)
+},{}]},{},["../../../../../usr/local/lib/node_modules/parcel-bundler/src/builtins/hmr-runtime.js","index.js"], null)
 //# sourceMappingURL=/src.e31bb0bc.js.map

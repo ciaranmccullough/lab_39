@@ -206,11 +206,6 @@ header {
 
 .logo {
   padding: 20px;
-  transition: all 0.2s ease-in-out;
-}
-
-.logo:hover {
-  transform: scale(1.1);
 }
 
 .logo img {
@@ -475,7 +470,8 @@ header {
 
 .footer-container p {
   background-color: var(--light);
-  margin: 0;
+  margin: 0 10px;
+  text-align: center;
 }
 
 .footer-social {
