@@ -18,6 +18,10 @@
 .env.test.local
 .env.production.local
 
+# Keys
+lab39.co.uk.csr
+lab39.co.uk.key
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*

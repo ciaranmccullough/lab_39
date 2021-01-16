@@ -106,7 +106,9 @@ ul.typographic {
 body {
   background-color: var(--light);
   font-family: 'Ubuntu';
-  margin: 20px;
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 1620px;
 }
 
 h2 {
