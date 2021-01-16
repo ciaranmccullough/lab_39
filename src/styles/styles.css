@@ -561,9 +561,6 @@ header {
   }
 
   /* Lab */
-  .lab-item-1 {
-    width: 1000px;
-  }
   .lab-item-3 img {
     border-bottom-right-radius: 40%;
   }
@@ -580,7 +577,9 @@ header {
   .title h1 {
     font-size: 35px;
   }
-
+  .lab-item-1 {
+    width: 1000px;
+  }
   h2 {
     display: flex;
   }
@@ -675,7 +674,6 @@ header {
 /* Large Screen Desktop */
 @media (min-width: 960px) {
   /* Services */
-
   .icons {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
